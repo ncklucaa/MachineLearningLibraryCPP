@@ -23,7 +23,9 @@ machine learning library using C++ ft linear regression, logistic regression, an
   - 4.0,5.0,0
   - 6.0,7.0,1
 
-  - **for k-means clustering**:
+- **for k-means clustering**:
   - 1.0,2.0
   - 2.0,3.0
   - 8.0,9.0
+
+input numbers in the .csv file
