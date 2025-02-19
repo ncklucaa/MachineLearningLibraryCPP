@@ -29,7 +29,3 @@ machine learning library using C++ ft linear regression, logistic regression, an
   - 8.0,9.0
 
 input numbers in the .csv file
-
-
-![C++](https://img.shields.io/badge/C++-17-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
